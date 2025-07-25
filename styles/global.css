@@ -43,17 +43,23 @@ h3 {
   font: inherit;
 }
 .container {
-  width: 100%;
   max-width: 1280px;
   margin-inline: auto;
   padding-inline: 32px;
+  padding-bottom: 100px;
 }
 img {
   max-width: 100%;
 }
 main {
   margin-top: 40px;
-  gap: 80px;
+  row-gap: 80px;
+  column-gap: 32px;
+  grid-template-columns: 2fr 1.3fr;
+  grid-template-areas:
+    "featured featured"
+    "weekly weekly"
+    "ai aside";
 }
 .content-tag {
   display: inline-block;
@@ -64,5 +70,5 @@ main {
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--text-color-primary);
-  box-shadow: 0px 4px 16px rgba(2, 6, 23, 0.25);
+  box-shadow: 0px 4px 16px rgba(2, 6, 23, 0.251);
 }
