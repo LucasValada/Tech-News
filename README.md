@@ -21,19 +21,31 @@ Você pode visualizar o layout original no Figma:
 ## 📂 Estrutura do Projeto
 
 📁 TechNew/
+
 ├── assets
+
 │ ├── icons
+
 │ ├── imgs
+
 ├── styles
+
 ├── index.html
+
 ├── resultadoTechNews.png
+
 └── README.md
+
 
 🧪 Como executar o projeto
 Clone o repositório:
+
 git clone https://github.com/LucasValada/TechNew.git
+
 cd TechNew
 
 Abra o arquivo index.html no navegador:
+
 Clique duas vezes sobre ele OU
+
 Use a extensão Live Server no VSCode.
