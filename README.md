@@ -11,7 +11,7 @@ Tem como objetivo exercitar fundamentos de estruturação, estilização e respo
 ![TechNew - Full Stack Rocketseat](./resultadoTechNews.png)
 
 Você pode visualizar o layout original no Figma:  
-[🔗 Local Turístico - Style Guide (Figma)](https://www.figma.com/community/file/1384542229391733447/local-turistico)
+[🔗 Local Turístico - Style Guide (Figma)](https://www.figma.com/community/file/1362166020452569562/portal-de-noticias)
 
 ## 🛠️ Tecnologias Utilizadas
 
